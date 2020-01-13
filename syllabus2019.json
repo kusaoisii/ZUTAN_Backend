@@ -1,1 +1,446 @@
-[{"SubjectFieldName":"教養科目","SubjectFields":[{"fieldName":"人文・社会","subjects":["HS01 哲学","HS03 心理学","HS04 言語学","HS05 文学","HS06 芸術学","HS07 ジェンダー・セクシュアリティ論","HS09 法学","HS10 経済学","HS11 社会学","HS12 日本国憲法","HS13 国際関係論","HS16 保健体育理論","HS17 科学史","HS19 会津の歴史と文化","HS20 アカデミックスキル１","HS21 アカデミックスキル２","HS22 地域社会学","HS23 経済発展論"]},{"fieldName":"体育実技","subjects":["PA01 体育実技１","PA02 体育実技２","PA03 体育実技３","PA04 体育実技４"]}]},{"SubjectFieldName":"外国語科目","SubjectFields":[{"fieldName":"英語科目","subjects":["EN01 Introductory English 1","EN02 Introductory English 2","EN03 Introductory English 3","EN04 Introductory English 4","EN05 Intermediate English 1","EN06 Intermediate English 2","EN07 Intermediate English 3","EN08 Thesis Writing and Presentation"]},{"fieldName":"EL1 Advanced English Acquisition","subjects":["EL102 Design of Human Languages","EL113 Pronunciation: Comparing English and Japanese Sound Systems","EL115 Analysis of English Sentence Structure","EL131 Language and Linguistics","EL134 High Frequency Vocabulary","EL144 Conversation Analysis and the Pragmatics of Spoken Interaction","EL145 Vocabulary: Theory and Practice","EL152 Reading Fluency"]},{"fieldName":"EL2 Advanced Professional English Applic","subjects":["EL213 Design of Movies for Professonal Communication","EL218 Presentation Skills","EL222 Business Writing and Presentations","EL233 Technical Writing for IT Business","EL234 Research poster presentations","EL235 Basic and Practical English Pronunciation: 13 vowels and 24 consonants","EL244 An Introduction to Cross-cultural Communication","EL245 Learning Theory and Online Technologies","EL246 Communicating in Organizations"]},{"fieldName":"EL3 Advanced English and Technology","subjects":["EL314 Experimental Methods and Statistics for Linguistics","EL315 Design and Analysis for IT Business","EL317 Patterns and language","EL318 ICT in Education","EL321 Pronunciation: Acoustic Analysis Using Software","EL328 Logic and language","EL329 Critical Thinking"]},{"fieldName":"EG1 Global Experience Gateway","subjects":["EG101 Global Experience Gateway (RHIT)","EG102 Global Experience Gateway (Waikato)"]},{"fieldName":"その他の言語科目","subjects":["JP01 初級日本語 I [留学生対象]","JP02 初級日本語 II [留学生対象]","JP03 中級日本語 I [留学生対象]","JP04 中級日本語 II [留学生対象]","JP05 上級日本語 I [留学生対象]","JP06 上級日本語 II [留学生対象]","JP07 ビジネス日本語 [留学生対象]"]}]},{"SubjectFieldName":"専門教育科目・専門基礎科目","SubjectFields":[{"fieldName":"数学関連科目","subjects":["MA01 線形代数 I","MA02 線形代数 II","MA03 微積分 I","MA04 微積分 II","MA05 フーリエ解析","MA06 複素関数論","MA07 確率統計学","MA08 応用代数","MA09 数理論理学","MA10 位相幾何学概論","MA11 応用幾何とトポロジー"]},{"fieldName":"自然科学関連科目","subjects":["NS01 力学","NS02 電磁気学","NS03 量子力学","NS04 半導体デバイス","NS05 熱・統計力学"]},{"fieldName":"コンピュータ基礎関連科目","subjects":["LI01 コンピュータリテラシー","LI03 コンピュータ理工学のすすめ","LI04 コンピュータシステム概論","LI06 情報セキュリティ","LI07 情報と職業","LI08 情報倫理","LI09 システム開発とプロジェクトマネジメントの基礎","LI10 マルチメディアシステム概論","LI11 コンピュータネットワーク概論","LI12 創造力開発スタジオ","LI13 コンピュータ理工学演習 I","LI14 コンピュータ理工学演習 II"]},{"fieldName":"プログラミング関連科目","subjects":["PL01 プログラミング入門","PL02 プログラミングC","PL03 プログラミングJAVA I","PL04 プログラミングC++","PL05 コンピュータ言語論","PL06 プログラミングJAVA II"]},{"fieldName":"コンピュータ理工学基礎関連科目","subjects":["FU01 アルゴリズムとデータ構造 I","FU02 情報理論と圧縮","FU03 離散系論","FU04 論理回路設計論","FU05 コンピュータアーキテクチャ論","FU06 オペレーティングシステム論","FU08 オートマトンと言語理論","FU09 アルゴリズムとデータ構造 II","FU10 言語処理系論","FU11 数値解析","FU14 ソフトウェア工学概論","FU15 データマネジメント概論"]}]},{"SubjectFieldName":"専門教育科目・専門科目","SubjectFields":[{"fieldName":"コンピュータ・システム関連科目","subjects":["SY02 電子回路","SY04 組込みシステム","SY05 並列コンピュータシステム","SY06 VLSI設計技術","SY07 論理回路設計特論"]},{"fieldName":"コンピュータ・ネットワーク関連科目","subjects":["CN02 ネットワークセキュリティ","CN03 ネットワークプログラミング","CN04 ワイヤレスネットワーク","CN05 コンピュータネットワークシステムのモデリングとシミュレーション"]},{"fieldName":"アプリケーション関連科目","subjects":["IT01 人工知能","IT02 コンピュータグラフィックス論","IT03 画像処理論","IT05 ロボット工学と自動制御","IT06 ヒューマンインターフェイスと仮想現実","IT08 信号処理と線形システム","IT09 音響音声処理論","IT10 ビジュアルコンピューティングのための幾何学","IT11 情報検索と自然言語処理"]},{"fieldName":"ソフトウェア・エンジニアリング関連科目","subjects":["SE01 ウェブエンジニアリング","SE02 ウェブデータモデリング","SE04 ソフトウェア工学特論","SE05 ソフトウェアスタジオ","SE06 並列分散コンピューティング","SE07 データベースシステム論"]},{"fieldName":"その他の科目","subjects":["OT01-I ベンチャー基本コース各論 I","OT01-II ベンチャー基本コース各論 II","OT02-1 ベンチャー体験工房 1","OT02-2 ベンチャー体験工房 2","OT02-4 ベンチャー体験工房 4","OT02-5 ベンチャー体験工房 5","OT02-6 ベンチャー体験工房 6","OT02-7 ベンチャー体験工房 7","OT02-9 ベンチャー体験工房 9","OT04 情報処理試験対策講座","OT05 キャリアデザインI","OT06 キャリアデザインII","OT08 TOEIC準備コース(Level A)","OT08 TOEIC準備コース(Level B)","OT10 課外活動コース II＜インターンシップIII（大連）＞","OT10 課外活動コースII＜インターンシップII（国内A）＞","OT10 課外活動コースII＜インターンシップII（国内B）＞","OT10 課外活動コースII＜インターンシップII（国内C）＞","OT10 課外活動コースII＜インターンシップII（国内D）＞","OT10 課外活動コースII＜インターンシップI（地域A）＞","OT10 課外活動コース II＜インターンシップIII（シリコンバレーA）＞"]}]},{"SubjectFieldName":"総合演習","SubjectFields":[{"fieldName":"総合演習","subjects":["IE01 システム総合演習 I","IE02 システム総合演習 II","IE03 ソフトウェア総合演習 I","IE04 ソフトウェア総合演習 II"]}]},{"SubjectFieldName":"教職に関する専門科目","SubjectFields":[{"fieldName":"TE01 教師入門"},{"fieldName":"TE02 教育入門"},{"fieldName":"TE03 教育心理学"},{"fieldName":"TE04 教育課程論"},{"fieldName":"TE05 教育方法"},{"fieldName":"TE06 数学科教育法１"},{"fieldName":"TE07 数学科教育法２"},{"fieldName":"TE08 数学科教育法３"},{"fieldName":"TE09 数学科教育法４"},{"fieldName":"TE10 情報科教育法１"},{"fieldName":"TE11 情報科教育法２"},{"fieldName":"TE12 道徳教育"},{"fieldName":"TE13 特別活動"},{"fieldName":"TE14 生徒指導・教育相談"},{"fieldName":"TE15 キャリア教育"},{"fieldName":"TE16 教育実習１"},{"fieldName":"TE17 教育実習２"},{"fieldName":"TE18 教育実習事前事後指導"},{"fieldName":"TE19 教育制度論"},{"fieldName":"TE20 教職実践演習（中・高）"}]},{"SubjectFieldName":"課外プロジェクト","SubjectFields":[{"fieldName":"OT03-001 大規模分散Webインフラ構築入門"},{"fieldName":"OT03-002 月惑星データ解析＆国際宇宙ステーションたんぽぽプロジェクト"},{"fieldName":"OT03-003 天文データを用いたRによる統計解析入門"},{"fieldName":"OT03-004 教師になろう！"},{"fieldName":"OT03-005 異文化リーダーシップトレーニング-理工系学生のための異文化理解及び地域イノベーション"},{"fieldName":"OT03-006 なんでも手作りプロジェクト"},{"fieldName":"OT03-007 プログラム可視化によるC言語学習支援手法"},{"fieldName":"OT03-008 Virtual system experiments on human cognition near its threshold"},{"fieldName":"OT03-009 論理的に"},{"fieldName":"OT03-010 競技用ロボットの開発"},{"fieldName":"OT03-011 コンピュータを使った音と映像のコンテンツ制作"},{"fieldName":"OT03-012 A Peek Inside Computers"},{"fieldName":"OT03-013 自作プロセッサのための電子工作プロジェクト"},{"fieldName":"OT03-014 マナビーノ　Arduino／Pi"},{"fieldName":"OT03-015 人工知能を搭載したラジコンの開発"},{"fieldName":"OT03-016 Advanced Pattern Recognition and Software Development"},{"fieldName":"OT03-017 Korean IT and Culture Study"},{"fieldName":"OT03-018 Practical application & network defense"},{"fieldName":"OT03-019 競技プログラミング"},{"fieldName":"OT03-020 実践的プログラミング"},{"fieldName":"OT03-021 活性知識工学と人間中心設計によるユーザインタフェースと開発"},{"fieldName":"OT03-022 立体形状物のモデリングと造形"},{"fieldName":"OT03-023 Human Body Motion Analysis Project"},{"fieldName":"OT03-024 Korean Language and Culture"},{"fieldName":"OT03-025 現代暗号入門"},{"fieldName":"OT03-026 物理教育のためのコンピュータプログラムの開発"},{"fieldName":"OT03-027 火山防災とデータ"},{"fieldName":"OT03-028 Datalimpicに出よう"},{"fieldName":"OT03-029 Computer Modeling of Nanoelectronic Devices"},{"fieldName":"OT03-030 Preparing for International Conferences"},{"fieldName":"OT03-031 学内生活を便利にするアプリケーション・サービスを作ろう"},{"fieldName":"OT03-032 英語の音とつづり"}]}]
+[
+	{
+		"SubjectFieldName": "教養科目",
+		"SubjectFields": [
+			{
+				"fieldName": "人文・社会",
+				"subjects": [
+					"HS01 哲学",
+					"HS03 心理学",
+					"HS04 言語学",
+					"HS05 文学",
+					"HS06 芸術学",
+					"HS07 ジェンダー・セクシュアリティ論",
+					"HS09 法学",
+					"HS10 経済学",
+					"HS11 社会学",
+					"HS12 日本国憲法",
+					"HS13 国際関係論",
+					"HS16 保健体育理論",
+					"HS17 科学史",
+					"HS19 会津の歴史と文化",
+					"HS20 アカデミックスキル１",
+					"HS21 アカデミックスキル２",
+					"HS22 地域社会学",
+					"HS23 経済発展論"
+				]
+			},
+			{
+				"fieldName": "体育実技",
+				"subjects": [
+					"PA01 体育実技１",
+					"PA02 体育実技２",
+					"PA03 体育実技３",
+					"PA04 体育実技４"
+				]
+			}
+		]
+	},
+	{
+		"SubjectFieldName": "外国語科目",
+		"SubjectFields": [
+			{
+				"fieldName": "英語科目",
+				"subjects": [
+					"EN01 Introductory English 1",
+					"EN02 Introductory English 2",
+					"EN03 Introductory English 3",
+					"EN04 Introductory English 4",
+					"EN05 Intermediate English 1",
+					"EN06 Intermediate English 2",
+					"EN07 Intermediate English 3",
+					"EN08 Thesis Writing and Presentation"
+				]
+			},
+			{
+				"fieldName": "EL1 Advanced English Acquisition",
+				"subjects": [
+					"EL102 Design of Human Languages",
+					"EL113 Pronunciation: Comparing English and Japanese Sound Systems",
+					"EL115 Analysis of English Sentence Structure",
+					"EL131 Language and Linguistics",
+					"EL134 High Frequency Vocabulary",
+					"EL144 Conversation Analysis and the Pragmatics of Spoken Interaction",
+					"EL145 Vocabulary: Theory and Practice",
+					"EL152 Reading Fluency"
+				]
+			},
+			{
+				"fieldName": "EL2 Advanced Professional English Applic",
+				"subjects": [
+					"EL213 Design of Movies for Professonal Communication",
+					"EL218 Presentation Skills",
+					"EL222 Business Writing and Presentations",
+					"EL233 Technical Writing for IT Business",
+					"EL234 Research poster presentations",
+					"EL235 Basic and Practical English Pronunciation: 13 vowels and 24 consonants",
+					"EL244 An Introduction to Cross-cultural Communication",
+					"EL245 Learning Theory and Online Technologies",
+					"EL246 Communicating in Organizations"
+				]
+			},
+			{
+				"fieldName": "EL3 Advanced English and Technology",
+				"subjects": [
+					"EL314 Experimental Methods and Statistics for Linguistics",
+					"EL315 Design and Analysis for IT Business",
+					"EL317 Patterns and language",
+					"EL318 ICT in Education",
+					"EL321 Pronunciation: Acoustic Analysis Using Software",
+					"EL328 Logic and language",
+					"EL329 Critical Thinking"
+				]
+			},
+			{
+				"fieldName": "EG1 Global Experience Gateway",
+				"subjects": [
+					"EG101 Global Experience Gateway (RHIT)",
+					"EG102 Global Experience Gateway (Waikato)"
+				]
+			},
+			{
+				"fieldName": "その他の言語科目",
+				"subjects": [
+					"JP01 初級日本語 I [留学生対象]",
+					"JP02 初級日本語 II [留学生対象]",
+					"JP03 中級日本語 I [留学生対象]",
+					"JP04 中級日本語 II [留学生対象]",
+					"JP05 上級日本語 I [留学生対象]",
+					"JP06 上級日本語 II [留学生対象]",
+					"JP07 ビジネス日本語 [留学生対象]"
+				]
+			}
+		]
+	},
+	{
+		"SubjectFieldName": "専門教育科目・専門基礎科目",
+		"SubjectFields": [
+			{
+				"fieldName": "数学関連科目",
+				"subjects": [
+					"MA01 線形代数 I",
+					"MA02 線形代数 II",
+					"MA03 微積分 I",
+					"MA04 微積分 II",
+					"MA05 フーリエ解析",
+					"MA06 複素関数論",
+					"MA07 確率統計学",
+					"MA08 応用代数",
+					"MA09 数理論理学",
+					"MA10 位相幾何学概論",
+					"MA11 応用幾何とトポロジー"
+				]
+			},
+			{
+				"fieldName": "自然科学関連科目",
+				"subjects": [
+					"NS01 力学",
+					"NS02 電磁気学",
+					"NS03 量子力学",
+					"NS04 半導体デバイス",
+					"NS05 熱・統計力学"
+				]
+			},
+			{
+				"fieldName": "コンピュータ基礎関連科目",
+				"subjects": [
+					"LI01 コンピュータリテラシー",
+					"LI03 コンピュータ理工学のすすめ",
+					"LI04 コンピュータシステム概論",
+					"LI06 情報セキュリティ",
+					"LI07 情報と職業",
+					"LI08 情報倫理",
+					"LI09 システム開発とプロジェクトマネジメントの基礎",
+					"LI10 マルチメディアシステム概論",
+					"LI11 コンピュータネットワーク概論",
+					"LI12 創造力開発スタジオ",
+					"LI13 コンピュータ理工学演習 I",
+					"LI14 コンピュータ理工学演習 II"
+				]
+			},
+			{
+				"fieldName": "プログラミング関連科目",
+				"subjects": [
+					"PL01 プログラミング入門",
+					"PL02 プログラミングC",
+					"PL03 プログラミングJAVA I",
+					"PL04 プログラミングC++",
+					"PL05 コンピュータ言語論",
+					"PL06 プログラミングJAVA II"
+				]
+			},
+			{
+				"fieldName": "コンピュータ理工学基礎関連科目",
+				"subjects": [
+					"FU01 アルゴリズムとデータ構造 I",
+					"FU02 情報理論と圧縮",
+					"FU03 離散系論",
+					"FU04 論理回路設計論",
+					"FU05 コンピュータアーキテクチャ論",
+					"FU06 オペレーティングシステム論",
+					"FU08 オートマトンと言語理論",
+					"FU09 アルゴリズムとデータ構造 II",
+					"FU10 言語処理系論",
+					"FU11 数値解析",
+					"FU14 ソフトウェア工学概論",
+					"FU15 データマネジメント概論"
+				]
+			}
+		]
+	},
+	{
+		"SubjectFieldName": "専門教育科目・専門科目",
+		"SubjectFields": [
+			{
+				"fieldName": "コンピュータ・システム関連科目",
+				"subjects": [
+					"SY02 電子回路",
+					"SY04 組込みシステム",
+					"SY05 並列コンピュータシステム",
+					"SY06 VLSI設計技術",
+					"SY07 論理回路設計特論"
+				]
+			},
+			{
+				"fieldName": "コンピュータ・ネットワーク関連科目",
+				"subjects": [
+					"CN02 ネットワークセキュリティ",
+					"CN03 ネットワークプログラミング",
+					"CN04 ワイヤレスネットワーク",
+					"CN05 コンピュータネットワークシステムのモデリングとシミュレーション"
+				]
+			},
+			{
+				"fieldName": "アプリケーション関連科目",
+				"subjects": [
+					"IT01 人工知能",
+					"IT02 コンピュータグラフィックス論",
+					"IT03 画像処理論",
+					"IT05 ロボット工学と自動制御",
+					"IT06 ヒューマンインターフェイスと仮想現実",
+					"IT08 信号処理と線形システム",
+					"IT09 音響音声処理論",
+					"IT10 ビジュアルコンピューティングのための幾何学",
+					"IT11 情報検索と自然言語処理"
+				]
+			},
+			{
+				"fieldName": "ソフトウェア・エンジニアリング関連科目",
+				"subjects": [
+					"SE01 ウェブエンジニアリング",
+					"SE02 ウェブデータモデリング",
+					"SE04 ソフトウェア工学特論",
+					"SE05 ソフトウェアスタジオ",
+					"SE06 並列分散コンピューティング",
+					"SE07 データベースシステム論"
+				]
+			},
+			{
+				"fieldName": "その他の科目",
+				"subjects": [
+					"OT01-I ベンチャー基本コース各論 I",
+					"OT01-II ベンチャー基本コース各論 II",
+					"OT02-1 ベンチャー体験工房 1",
+					"OT02-2 ベンチャー体験工房 2",
+					"OT02-4 ベンチャー体験工房 4",
+					"OT02-5 ベンチャー体験工房 5",
+					"OT02-6 ベンチャー体験工房 6",
+					"OT02-7 ベンチャー体験工房 7",
+					"OT02-9 ベンチャー体験工房 9",
+					"OT04 情報処理試験対策講座",
+					"OT05 キャリアデザインI",
+					"OT06 キャリアデザインII",
+					"OT08 TOEIC準備コース(Level A)",
+					"OT08 TOEIC準備コース(Level B)",
+					"OT10 課外活動コース II＜インターンシップIII（大連）＞",
+					"OT10 課外活動コースII＜インターンシップII（国内A）＞",
+					"OT10 課外活動コースII＜インターンシップII（国内B）＞",
+					"OT10 課外活動コースII＜インターンシップII（国内C）＞",
+					"OT10 課外活動コースII＜インターンシップII（国内D）＞",
+					"OT10 課外活動コースII＜インターンシップI（地域A）＞",
+					"OT10 課外活動コース II＜インターンシップIII（シリコンバレーA）＞"
+				]
+			}
+		]
+	},
+	{
+		"SubjectFieldName": "総合演習",
+		"SubjectFields": [
+			{
+				"fieldName": "総合演習",
+				"subjects": [
+					"IE01 システム総合演習 I",
+					"IE02 システム総合演習 II",
+					"IE03 ソフトウェア総合演習 I",
+					"IE04 ソフトウェア総合演習 II"
+				]
+			}
+		]
+	},
+	{
+		"SubjectFieldName": "教職に関する専門科目",
+		"SubjectFields": [
+			{
+				"fieldName": "TE01 教師入門"
+			},
+			{
+				"fieldName": "TE02 教育入門"
+			},
+			{
+				"fieldName": "TE03 教育心理学"
+			},
+			{
+				"fieldName": "TE04 教育課程論"
+			},
+			{
+				"fieldName": "TE05 教育方法"
+			},
+			{
+				"fieldName": "TE06 数学科教育法１"
+			},
+			{
+				"fieldName": "TE07 数学科教育法２"
+			},
+			{
+				"fieldName": "TE08 数学科教育法３"
+			},
+			{
+				"fieldName": "TE09 数学科教育法４"
+			},
+			{
+				"fieldName": "TE10 情報科教育法１"
+			},
+			{
+				"fieldName": "TE11 情報科教育法２"
+			},
+			{
+				"fieldName": "TE12 道徳教育"
+			},
+			{
+				"fieldName": "TE13 特別活動"
+			},
+			{
+				"fieldName": "TE14 生徒指導・教育相談"
+			},
+			{
+				"fieldName": "TE15 キャリア教育"
+			},
+			{
+				"fieldName": "TE16 教育実習１"
+			},
+			{
+				"fieldName": "TE17 教育実習２"
+			},
+			{
+				"fieldName": "TE18 教育実習事前事後指導"
+			},
+			{
+				"fieldName": "TE19 教育制度論"
+			},
+			{
+				"fieldName": "TE20 教職実践演習（中・高）"
+			}
+		]
+	},
+	{
+		"SubjectFieldName": "課外プロジェクト",
+		"SubjectFields": [
+			{
+				"fieldName": "OT03-001 大規模分散Webインフラ構築入門"
+			},
+			{
+				"fieldName": "OT03-002 月惑星データ解析＆国際宇宙ステーションたんぽぽプロジェクト"
+			},
+			{
+				"fieldName": "OT03-003 天文データを用いたRによる統計解析入門"
+			},
+			{
+				"fieldName": "OT03-004 教師になろう！"
+			},
+			{
+				"fieldName": "OT03-005 異文化リーダーシップトレーニング-理工系学生のための異文化理解及び地域イノベーション"
+			},
+			{
+				"fieldName": "OT03-006 なんでも手作りプロジェクト"
+			},
+			{
+				"fieldName": "OT03-007 プログラム可視化によるC言語学習支援手法"
+			},
+			{
+				"fieldName": "OT03-008 Virtual system experiments on human cognition near its threshold"
+			},
+			{
+				"fieldName": "OT03-009 論理的に"
+			},
+			{
+				"fieldName": "OT03-010 競技用ロボットの開発"
+			},
+			{
+				"fieldName": "OT03-011 コンピュータを使った音と映像のコンテンツ制作"
+			},
+			{
+				"fieldName": "OT03-012 A Peek Inside Computers"
+			},
+			{
+				"fieldName": "OT03-013 自作プロセッサのための電子工作プロジェクト"
+			},
+			{
+				"fieldName": "OT03-014 マナビーノ　Arduino／Pi"
+			},
+			{
+				"fieldName": "OT03-015 人工知能を搭載したラジコンの開発"
+			},
+			{
+				"fieldName": "OT03-016 Advanced Pattern Recognition and Software Development"
+			},
+			{
+				"fieldName": "OT03-017 Korean IT and Culture Study"
+			},
+			{
+				"fieldName": "OT03-018 Practical application & network defense"
+			},
+			{
+				"fieldName": "OT03-019 競技プログラミング"
+			},
+			{
+				"fieldName": "OT03-020 実践的プログラミング"
+			},
+			{
+				"fieldName": "OT03-021 活性知識工学と人間中心設計によるユーザインタフェースと開発"
+			},
+			{
+				"fieldName": "OT03-022 立体形状物のモデリングと造形"
+			},
+			{
+				"fieldName": "OT03-023 Human Body Motion Analysis Project"
+			},
+			{
+				"fieldName": "OT03-024 Korean Language and Culture"
+			},
+			{
+				"fieldName": "OT03-025 現代暗号入門"
+			},
+			{
+				"fieldName": "OT03-026 物理教育のためのコンピュータプログラムの開発"
+			},
+			{
+				"fieldName": "OT03-027 火山防災とデータ"
+			},
+			{
+				"fieldName": "OT03-028 Datalimpicに出よう"
+			},
+			{
+				"fieldName": "OT03-029 Computer Modeling of Nanoelectronic Devices"
+			},
+			{
+				"fieldName": "OT03-030 Preparing for International Conferences"
+			},
+			{
+				"fieldName": "OT03-031 学内生活を便利にするアプリケーション・サービスを作ろう"
+			},
+			{
+				"fieldName": "OT03-032 英語の音とつづり"
+			}
+		]
+	}
+]
