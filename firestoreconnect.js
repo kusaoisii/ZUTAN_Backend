@@ -74,7 +74,6 @@ const pushDetail = subjectData => {
     subjectData.forEach(categoryData => {
         categoryData.fields.forEach(field => {
             if (field.fieldId) {
-                console.log(field.fieldId);
                 field.subjects.forEach(subjectData => {
                     const docRef = db.collection('details').doc(subjectData.subjectId);
                     docRef.set({
